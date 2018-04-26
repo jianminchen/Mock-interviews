@@ -53,7 +53,7 @@ class Solution
 
 // juliachencoding.blogspot.ca
 // https://www.linkedin.com/in/jianminchen/
-// https://www.linkedin.com/in/mark-sturtz-4662856/
+
 // input:  arr = [8, 10, 2]
 // output: [20, 16, 80] # by calculating: [10*2, 8*2, 8*10]
 
