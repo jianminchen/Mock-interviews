@@ -65,8 +65,6 @@ class Solution
         //root.children = new Node[]{root5}; 
 
         Console.WriteLine(getCheapestCost(root));
-
-
     }
 }
 // 
