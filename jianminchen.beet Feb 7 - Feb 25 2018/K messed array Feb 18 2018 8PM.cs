@@ -27,7 +27,6 @@ class Solution
     {
         var length = numbers.Length;
 
-
         for (int i = start + 1; i < start + firstSpecifedNumbers && i < length; i++)
         {
             var startValue = numbers[start];
