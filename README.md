@@ -6,5 +6,8 @@ The folder containing all algorithms is jianminchen.sh Sept 7 - Nov 20 2017. I w
 Last round of mock interviews is here:
 
 Daisy round practice from March 30 to June 16, 2018 is listed here:
+keywords: 
+symbol:     Daisy, 
+Time range: March 30 to June 16, 2018
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.daisy%20March%2030%20-%20May%204%202018
