@@ -6,7 +6,7 @@ The folder containing all algorithms is jianminchen.sh Sept 7 - Nov 20 2017. I w
 keywords: <br>
 symbol:     sh, <br>
 Time range: Sept. 7 to Nov 20, 2017 <br>
-Algorithm: 28+ <br>
+Algorithm: 28 - 31<br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
 
@@ -17,7 +17,7 @@ Daisy round practice from March 30 to June 16, 2018 is listed here:<br>
 keywords: <br>
 symbol:     Daisy, <br>
 Time range: March 30 to June 16, 2018 <br>
-Algorithms: 28+ <br>
+Algorithms: 28 - 31 <br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.daisy%20March%2030%20-%20May%204%202018
 
@@ -27,7 +27,7 @@ Cat round practice from February 25 to March 29, 2018 is listed here:<br>
 keywords: <br>
 symbol:     Cat, <br>
 Time range: February 25 to March 29, 2018 <br>
-Algorithms: 28+ <br>
+Algorithms: 31 <br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.cat%20Feb%2025%20-%20March%2029%202018
 
