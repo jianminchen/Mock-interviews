@@ -1,7 +1,7 @@
 # Mock-interviews
 I like to document my mock interview practices in C#, so I can track what I have achieved in problem solving skills. Please refer to my blog about mock interview in detail, here is the link: http://juliachencoding.blogspot.ca/2018/04/10-rounds-of-mock-interviews.html
 
-<B>Sh round of mock interview</B> <br>
+<B>Round of Sh</B> <br>
 The folder containing all algorithms is jianminchen.sh Sept 7 - Nov 20 2017. I will check in my practice for each round later.<br> 
 keywords: <br>
 symbol:     sh, <br>
@@ -11,7 +11,7 @@ Algorithm: 28 - 31<br>
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
 
 
-<B>Last round of mock interviews is here</B>
+<B>Round of Daisy</B>
 
 Daisy round practice from March 30 to June 16, 2018 is listed here:<br>
 keywords: <br>
