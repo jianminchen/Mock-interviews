@@ -10,6 +10,17 @@ Algorithm: 28 - 31<br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
 
+<B> Round of 1107 </B>
+
+Beet round practice from Nov 24 to Dec 24, 2017 is listed here:<br>
+keywords: <br>
+symbol:     1107 <br>
+Time range: Nov 24 to Dec 24, 2017 <br>
+Algorithms:  <br>
+
+https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.2017%20Dec%2024%202017%20-%20January%207%202018
+
+
 <B> Round of 2017 </B>
 
 Beet round practice from Dec 24 2017 to January 7, 2018 is listed here:<br>
