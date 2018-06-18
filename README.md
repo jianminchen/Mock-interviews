@@ -8,7 +8,7 @@ symbol:     mp <br>
 Time range: June 24 - Sept 5 2017 <br>
 Algorithm: <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
+https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.mp%20round%20from%20June24%20-%20Sept%205%202017
 
 
 <B>Round of Sh</B> <br>
