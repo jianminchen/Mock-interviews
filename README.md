@@ -10,11 +10,11 @@ Algorithm: 28 - 31<br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
 
-<B> Round of Apple </B>
+<B> Round of 2018apple </B>
 
 Beet round practice from January 24 to Feb 26, 2018 is listed here:<br>
 keywords: <br>
-symbol:     Apple <br>
+symbol:     2018apple <br>
 Time range: January 24 to Feb 26, 2018 <br>
 Algorithms:  <br>
 
