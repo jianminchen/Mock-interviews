@@ -10,6 +10,17 @@ Algorithm: 28 - 31<br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
 
+<B> Round of 2018 </B>
+
+Beet round practice from January 8 to January 22, 2018 is listed here:<br>
+keywords: <br>
+symbol:     2018 <br>
+Time range: January 8 to January 22 <br>
+Algorithms:  <br>
+
+https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.2018%20January%208%20-%20January%2022%202018
+
+
 <B> Round of 2018apple </B>
 
 Beet round practice from January 24 to Feb 26, 2018 is listed here:<br>
