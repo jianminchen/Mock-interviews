@@ -31,4 +31,16 @@ Algorithms: 31 <br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.cat%20Feb%2025%20-%20March%2029%202018
 
+<B> Round of Erica </B>
+
+Cat round practice from June 18 2018 is listed here:<br>
+keywords: <br>
+symbol:     Erica <br>
+Time range: June 18, 2018 <br>
+Algorithms:  <br>
+
+https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.cat%20Feb%2025%20-%20March%2029%202018
+
+https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.erica%20June%2016%20-
+
 
