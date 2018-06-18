@@ -14,7 +14,7 @@ https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept
 
 Beet round practice from January 24 to Feb 26, 2018 is listed here:<br>
 keywords: <br>
-symbol:     Beet <br>
+symbol:     Apple <br>
 Time range: January 24 to Feb 26, 2018 <br>
 Algorithms:  <br>
 
