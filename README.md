@@ -10,6 +10,26 @@ Algorithm: 28 - 31<br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
 
+<B> Round of Beet </B>
+
+Beet round practice from Feb 7 to Feb 25, 2018 is listed here:<br>
+keywords: <br>
+symbol:     Beet <br>
+Time range: Feb 7 to Feb 25, 2018 <br>
+Algorithms:  <br>
+
+https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.beet%20Feb%207%20-%20Feb%2025%202018
+
+<B> Round of Cat </B>
+
+Cat round practice from February 25 to March 29, 2018 is listed here:<br>
+keywords: <br>
+symbol:     Cat, <br>
+Time range: February 25 to March 29, 2018 <br>
+Algorithms: 31 <br>
+
+https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.cat%20Feb%2025%20-%20March%2029%202018
+
 
 <B>Round of Daisy</B>
 
@@ -21,15 +41,7 @@ Algorithms: 28 - 31 <br>
 
 https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.daisy%20March%2030%20-%20May%204%202018
 
-<B> Round of Cat </B>
 
-Cat round practice from February 25 to March 29, 2018 is listed here:<br>
-keywords: <br>
-symbol:     Cat, <br>
-Time range: February 25 to March 29, 2018 <br>
-Algorithms: 31 <br>
-
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.cat%20Feb%2025%20-%20March%2029%202018
 
 <B> Round of Erica </B>
 
