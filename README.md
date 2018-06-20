@@ -22,7 +22,7 @@ https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept
 
 <B> Round of 1107 </B>
 
-Beet round practice from Nov 24 to Dec 24, 2017 is listed here:<br>
+1107 round practice from Nov 24 to Dec 24, 2017 is listed here:<br>
 keywords: <br>
 symbol:     1107 <br>
 Time range: Nov 24 to Dec 24, 2017 <br>
@@ -33,7 +33,7 @@ https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.1107%20No
 
 <B> Round of 2017 </B>
 
-Beet round practice from Dec 24 2017 to January 7, 2018 is listed here:<br>
+2017 round practice from Dec 24 2017 to January 7, 2018 is listed here:<br>
 keywords: <br>
 symbol:     2017 <br>
 Time range: Dec 24 2017 to January 7, 2018 <br>
@@ -44,7 +44,7 @@ https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.2017%20De
 
 <B> Round of 2018 </B>
 
-Beet round practice from January 8 to January 22, 2018 is listed here:<br>
+2018 round practice from January 8 to January 22, 2018 is listed here:<br>
 keywords: <br>
 symbol:     2018 <br>
 Time range: January 8 to January 22 <br>
@@ -55,7 +55,7 @@ https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.2018%20Ja
 
 <B> Round of 2018apple </B>
 
-Beet round practice from January 24 to Feb 26, 2018 is listed here:<br>
+2018apple round practice from January 24 to Feb 26, 2018 is listed here:<br>
 keywords: <br>
 symbol:     2018apple <br>
 Time range: January 24 to Feb 26, 2018 <br>
@@ -99,7 +99,7 @@ https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.daisy%20M
 
 <B> Round of Erica </B>
 
-Cat round practice from June 18 2018 is listed here:<br>
+Erica round practice from June 18 2018 is listed here:<br>
 keywords: <br>
 symbol:     Erica <br>
 Time range: June 18, 2018 <br>
