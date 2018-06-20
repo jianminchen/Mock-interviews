@@ -99,7 +99,7 @@ https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.daisy%20M
 
 <B> Round of Erica </B>
 
-Cat round practice from June 18 2018 is listed here:<br>
+Erica round practice from June 18 2018 is listed here:<br>
 keywords: <br>
 symbol:     Erica <br>
 Time range: June 18, 2018 <br>
