@@ -51,5 +51,7 @@ class Solution
 // given a node inputNode in a BST, asking: inorder successor
 // in other words, bigger, smallest one in all bigger elements
 
-// brute force, inorder traversal -> 5, 9, 11, 12, 14, 20, 25, given node 9, search the array to find 9, next element - O(n)
-// try to do O(logn), try to start from given node, back to root node or down to leaf node, try to find successor
+// brute force, inorder traversal -> 5, 9, 11, 12, 14, 20, 25, given node 9, 
+// search the array to find 9, next element - O(n)
+// try to do O(logn), try to start from given node, back to root node or down 
+// to leaf node, try to find successor
