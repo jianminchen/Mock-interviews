@@ -61,7 +61,7 @@ symbol:     2018apple <br>
 Time range: January 24 to Feb 26, 2018 <br>
 Algorithms:  <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.2018apple%20January%2024%20-%20Feb%206%202018
+https://github.com/jianminchen/Mock-interviews/tree/master/2018%2002%20jianminchen.2018apple%20January%2024%20-%20Feb%206%202018
 
 
 <B> Round of Beet </B>
