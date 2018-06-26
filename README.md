@@ -18,7 +18,7 @@ symbol:     sh, <br>
 Time range: Sept. 7 to Nov 20, 2017 <br>
 Algorithm: 28 - 31<br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
+https://github.com/jianminchen/Mock-interviews/tree/master/2017%2009%20jianminchen.sh%20Sept%207%20-%20Nov%2020%202017
 
 <B> Round of 1107 </B>
 
