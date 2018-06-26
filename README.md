@@ -28,7 +28,7 @@ symbol:     1107 <br>
 Time range: Nov 24 to Dec 24, 2017 <br>
 Algorithms:  <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.1107%20Nov%2022%20-%20Dec%2024%202017
+https://github.com/jianminchen/Mock-interviews/tree/master/2017%2011%20jianminchen.1107%20Nov%2022%20-%20Dec%2024%202017
 
 
 <B> Round of 2017 </B>
