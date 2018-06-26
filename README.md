@@ -39,7 +39,7 @@ symbol:     2017 <br>
 Time range: Dec 24 2017 to January 7, 2018 <br>
 Algorithms:  <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.2017%20Dec%2024%202017%20-%20January%207%202018
+https://github.com/jianminchen/Mock-interviews/tree/master/2017%2012%20jianminchen.2017%20Dec%2024%202017%20-%20January%207%202018
 
 
 <B> Round of 2018 </B>
