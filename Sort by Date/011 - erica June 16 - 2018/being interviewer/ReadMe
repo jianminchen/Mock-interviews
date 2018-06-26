@@ -1,0 +1,17 @@
+
+
+June 24, 2018 2:00 PM - 
+
+Array index and element equality
+
+Work with the peer and show him a few issues in his binary search algorithm:
+
++1, -1 issue to avoid deap loop
+base case missing
+Lowest index solving - the peer solved by himself
+recursive solution vs iterative solution
+http://juliachencoding.blogspot.com/2018/06/byte-to-byte.html
+
+June 24, 2018 4:00 PM - 
+Array index and element equality
+Explain the idea to solve lowest index issue, continue to apply binary search. 
