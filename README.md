@@ -105,6 +105,6 @@ symbol:     Erica <br>
 Time range: June 18, 2018 <br>
 Algorithms:  <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.erica%20June%2016%20-
+https://github.com/jianminchen/Mock-interviews/tree/master/2018%2006%20jianminchen.erica%20June%2016%20-
 
 
