@@ -50,7 +50,7 @@ symbol:     2018 <br>
 Time range: January 8 to January 22 <br>
 Algorithms:  <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/jianminchen.2018%20January%208%20-%20January%2022%202018
+https://github.com/jianminchen/Mock-interviews/tree/master/2018%2001%20jianminchen.2018%20January%208%20-%20January%2022%202018
 
 
 <B> Round of 2018apple </B>
