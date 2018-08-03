@@ -18,3 +18,8 @@ Time spent to rewrite: Less than 20 minutes
 
 Need to study HashSet<> class source code and memorize all APIs
 https://github.com/jianminchen/Mock-interviews/blob/master/jianminchen.erica%20June%2016%20-/SudokuSolver.cs
+
+August 3, 2018
+
+I learned how to write a C# minimum heap using SortedDictionary today when I worked on Leetcode 23 Merge k sorted lists. So I wrote a new version K messes sorted array using minimum heap. 
+
