@@ -23,3 +23,4 @@ August 3, 2018
 
 I learned how to write a C# minimum heap using SortedDictionary today when I worked on Leetcode 23 Merge k sorted lists. So I wrote a new version K messes sorted array using minimum heap. 
 
+https://github.com/jianminchen/Mock-interviews/blob/master/2018%2006%20jianminchen.erica%20June%2016%20-/K-Messed%20Array%20Sort%20-%20using%20minimum%20heap.cs
