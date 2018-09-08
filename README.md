@@ -1,6 +1,7 @@
 # Mock-interviews
 I like to document my mock interview practices in C#, so I can track what I have achieved in problem solving skills. Please refer to my blog about mock interview in detail, here is the link: http://juliachencoding.blogspot.ca/2018/04/10-rounds-of-mock-interviews.html
 
+
 <B>Round of mp</B> <br>
 The folder containing all algorithms is jianminchen.mp June 24 - Sept 5 2017. <br> 
 keywords: <br>
@@ -108,3 +109,8 @@ Algorithms:  <br>
 https://github.com/jianminchen/Mock-interviews/tree/master/2018%2006%20jianminchen.erica%20June%2016%20-
 
 
+References:
+
+All the algorithms and problem statements can be looked up in the following blog:
+
+https://github.com/jianminchen/Pramp
