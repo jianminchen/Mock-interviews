@@ -11,7 +11,7 @@ Algorithm: <br>
 
 
 <B>Round of Sh</B> <br>
-The folder [sh](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2009%20jianminchen.sh%20Sept%207%20-%20Nov%2020%202017) containing all algorithms is jianminchen.sh Sept 7 - Nov 20 2017. I will check in my practice for each round later.<br> 
+The folder [2017 09 jianminchen.sh Sept 7 - Nov 20 2017](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2009%20jianminchen.sh%20Sept%207%20-%20Nov%2020%202017) containing all algorithms is jianminchen.sh Sept 7 - Nov 20 2017. I will check in my practice for each round later.<br> 
 keywords: <br>
 symbol:     sh, <br>
 Time range: Sept. 7 to Nov 20, 2017 <br>
