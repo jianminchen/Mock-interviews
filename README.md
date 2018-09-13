@@ -3,7 +3,7 @@ I like to document my mock interview practices in C#, so I can track what I have
 
 
 <B>Round of mp</B> <br>
-The folder [mp](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2007%20jianminchen.mp%20round%20from%20June24%20-%20Sept%205%202017) containing all algorithms is jianminchen.mp June 24 - Sept 5 2017. <br> 
+The folder containing all algorithms is [jianminchen.mp June 24 - Sept 5 2017](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2007%20jianminchen.mp%20round%20from%20June24%20-%20Sept%205%202017). <br> 
 keywords: <br>
 symbol:     mp <br>
 Time range: June 24 - Sept 5 2017 <br>
@@ -11,7 +11,7 @@ Algorithm: <br>
 
 
 <B>Round of Sh</B> <br>
-The folder [2017 09 jianminchen.sh Sept 7 - Nov 20 2017](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2009%20jianminchen.sh%20Sept%207%20-%20Nov%2020%202017) containing all algorithms is jianminchen.sh Sept 7 - Nov 20 2017. I will check in my practice for each round later.<br> 
+The folder containing all algorithms is [jianminchen.sh Sept 7 - Nov 20 2017](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2009%20jianminchen.sh%20Sept%207%20-%20Nov%2020%202017). I will check in my practice for each round later.<br> 
 keywords: <br>
 symbol:     sh, <br>
 Time range: Sept. 7 to Nov 20, 2017 <br>
