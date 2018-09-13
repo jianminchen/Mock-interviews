@@ -31,13 +31,13 @@ https://github.com/jianminchen/Mock-interviews/tree/master/2017%2011%20jianminch
 
 <B> Round of 2017 </B>
 
-2017 round practice from Dec 24 2017 to January 7, 2018 is listed here:<br>
+2017 round practice from Dec 24 2017 to January 7, 2018 is listed [here](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2012%20jianminchen.2017%20Dec%2024%202017%20-%20January%207%202018):<br>
 keywords: <br>
 symbol:     2017 <br>
 Time range: Dec 24 2017 to January 7, 2018 <br>
 Algorithms:  <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/2017%2012%20jianminchen.2017%20Dec%2024%202017%20-%20January%207%202018
+
 
 
 <B> Round of 2018 </B>
