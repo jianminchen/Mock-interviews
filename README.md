@@ -97,14 +97,11 @@ https://github.com/jianminchen/Mock-interviews/tree/master/2018%2005%20jianminch
 
 <B> Round of Erica </B>
 
-Erica round practice from June 18 2018 is listed here:<br>
+Erica round practice from June 18 2018 is listed [here](https://github.com/jianminchen/Mock-interviews/tree/master/2018%2006%20jianminchen.erica%20June%2016%20-):<br>
 keywords: <br>
 symbol:     Erica <br>
 Time range: June 18, 2018 <br>
 Algorithms:  <br>
-
-https://github.com/jianminchen/Mock-interviews/tree/master/2018%2006%20jianminchen.erica%20June%2016%20-
-
 
 References:
 
