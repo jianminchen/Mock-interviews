@@ -8,7 +8,7 @@ keywords: <br>
 symbol:     mp <br>
 Time range: June 24 - Sept 5 2017 <br>
 Algorithm: <br>
-
+[C# code](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2007%20jianminchen.mp%20round%20from%20June24%20-%20Sept%205%202017) <br>
 
 <B>Round of Sh</B> <br>
 The folder containing all algorithms is [jianminchen.sh Sept 7 - Nov 20 2017](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2009%20jianminchen.sh%20Sept%207%20-%20Nov%2020%202017). I will check in my practice for each round later.<br> 
@@ -16,7 +16,7 @@ keywords: <br>
 symbol:     sh, <br>
 Time range: Sept. 7 to Nov 20, 2017 <br>
 Algorithm: 28 - 31<br>
-
+[C# code](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2009%20jianminchen.sh%20Sept%207%20-%20Nov%2020%202017)<br>
 
 <B> Round of 1107 </B>
 
@@ -25,8 +25,8 @@ keywords: <br>
 symbol:     1107 <br>
 Time range: Nov 24 to Dec 24, 2017 <br>
 Algorithms:  <br>
+[C# code](https://github.com/jianminchen/Mock-interviews/tree/master/2017%2011%20jianminchen.1107%20Nov%2022%20-%20Dec%2024%202017) <br>
 
-https://github.com/jianminchen/Mock-interviews/tree/master/2017%2011%20jianminchen.1107%20Nov%2022%20-%20Dec%2024%202017
 
 
 <B> Round of 2017 </B>
@@ -36,8 +36,6 @@ keywords: <br>
 symbol:     2017 <br>
 Time range: Dec 24 2017 to January 7, 2018 <br>
 Algorithms:  <br>
-
-
 
 
 <B> Round of 2018 </B>
