@@ -12,3 +12,4 @@ Solve without using division and analyze the runtime and space complexity
 your function would return: [84, 24, 56, 42]  
     (by calculating: [7*3*4, 2*3*4, 2*7*4, 2*7*3])
 
+
